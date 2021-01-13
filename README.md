@@ -18,7 +18,7 @@ Para correr, ya en la carpeta desde la consola ejecutar:
 ```
 gradle run --console=plain
 ``` 
-Para así iniciar la ejecución del programa por consola.
+Para así iniciar la ejecución del prograama por consola.
 
 ## Pruebas
 Para ejecutar las pruebas se debe utilizar el comando:
