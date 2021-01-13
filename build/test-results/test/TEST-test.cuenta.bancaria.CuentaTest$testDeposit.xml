@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Tests Depositos en Cuenta" tests="10" skipped="0" failures="0" errors="0" timestamp="2021-01-13T00:25:14" hostname="DESKTOP-1QD3E6L" time="0.017">
+  <properties/>
+  <testcase name="testDepositMaxAmountCLP()" classname="test.cuenta.bancaria.CuentaTest$testDeposit" time="0.001"/>
+  <testcase name="testDepositMaxAmountUSD()" classname="test.cuenta.bancaria.CuentaTest$testDeposit" time="0.001"/>
+  <testcase name="testDepositMinAmountCLP()" classname="test.cuenta.bancaria.CuentaTest$testDeposit" time="0.001"/>
+  <testcase name="testDepositMinAmountUSD()" classname="test.cuenta.bancaria.CuentaTest$testDeposit" time="0.001"/>
+  <testcase name="testDepositSaldoOverflowCLP()" classname="test.cuenta.bancaria.CuentaTest$testDeposit" time="0.002"/>
+  <testcase name="testDepositSaldoOverflowUSD()" classname="test.cuenta.bancaria.CuentaTest$testDeposit" time="0.001"/>
+  <testcase name="testDepositBelowMinAmountCLP()" classname="test.cuenta.bancaria.CuentaTest$testDeposit" time="0.001"/>
+  <testcase name="testDepositBelowMinAmountUSD()" classname="test.cuenta.bancaria.CuentaTest$testDeposit" time="0.001"/>
+  <testcase name="testDepositSuccessCLP()" classname="test.cuenta.bancaria.CuentaTest$testDeposit" time="0.001"/>
+  <testcase name="testDepositSuccessUSD()" classname="test.cuenta.bancaria.CuentaTest$testDeposit" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

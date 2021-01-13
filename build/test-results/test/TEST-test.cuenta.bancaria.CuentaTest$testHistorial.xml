@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Tests Historial de Transacciones" tests="8" skipped="0" failures="0" errors="0" timestamp="2021-01-13T00:25:14" hostname="DESKTOP-1QD3E6L" time="0.036">
+  <properties/>
+  <testcase name="testAgregarAHistorialDepositoCLP()" classname="test.cuenta.bancaria.CuentaTest$testHistorial" time="0.016"/>
+  <testcase name="testAgregarAHistorialDepositoUSD()" classname="test.cuenta.bancaria.CuentaTest$testHistorial" time="0.002"/>
+  <testcase name="testAgregarAHistorialRetiroCLP()" classname="test.cuenta.bancaria.CuentaTest$testHistorial" time="0.001"/>
+  <testcase name="testAgregarAHistorialRetiroUSD()" classname="test.cuenta.bancaria.CuentaTest$testHistorial" time="0.001"/>
+  <testcase name="testGetHistorialTransaccionesDeposito()" classname="test.cuenta.bancaria.CuentaTest$testHistorial" time="0.001"/>
+  <testcase name="testImprimirHistorial()" classname="test.cuenta.bancaria.CuentaTest$testHistorial" time="0.007"/>
+  <testcase name="testGetHistorialTransaccionesRetiro()" classname="test.cuenta.bancaria.CuentaTest$testHistorial" time="0.001"/>
+  <testcase name="testGetHistorialTransaccionesVacio()" classname="test.cuenta.bancaria.CuentaTest$testHistorial" time="0.001"/>
+  <system-out><![CDATA[[12/01/2021 21:25:14.320] La cuenta ha sido creada. Saldo inicial: CLP 1000000 USD 1000
+[12/01/2021 21:25:14.320] Realizado depósito de USD 100. Saldo actual: CLP 1000000 USD 1000
+[12/01/2021 21:25:14.320] Realizado retiro de CLP 100. Saldo actual: CLP 1000000 USD 1000
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

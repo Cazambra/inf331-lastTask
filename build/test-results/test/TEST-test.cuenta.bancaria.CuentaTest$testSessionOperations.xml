@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Tests Manejo de Sesión" tests="6" skipped="0" failures="0" errors="0" timestamp="2021-01-13T00:25:14" hostname="DESKTOP-1QD3E6L" time="0.011">
+  <properties/>
+  <testcase name="testIncrementNumOperacionesSesionWhenAtMax()" classname="test.cuenta.bancaria.CuentaTest$testSessionOperations" time="0.002"/>
+  <testcase name="testIncrementNumSesionesWhenAtMax()" classname="test.cuenta.bancaria.CuentaTest$testSessionOperations" time="0.001"/>
+  <testcase name="testIncrementNumSesiones()" classname="test.cuenta.bancaria.CuentaTest$testSessionOperations" time="0.001"/>
+  <testcase name="testIncrementNumOperacionesSesion()" classname="test.cuenta.bancaria.CuentaTest$testSessionOperations" time="0.002"/>
+  <testcase name="testResetNumSesiones()" classname="test.cuenta.bancaria.CuentaTest$testSessionOperations" time="0.001"/>
+  <testcase name="testResetNumOperacionesSesion()" classname="test.cuenta.bancaria.CuentaTest$testSessionOperations" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Tests Retiros de Cuenta" tests="14" skipped="0" failures="0" errors="0" timestamp="2021-01-13T00:25:14" hostname="DESKTOP-1QD3E6L" time="0.031">
+  <properties/>
+  <testcase name="testWithdrawAboveSaldoCLP()" classname="test.cuenta.bancaria.CuentaTest$testWithdraw" time="0.002"/>
+  <testcase name="testWithdrawAboveSaldoUSD()" classname="test.cuenta.bancaria.CuentaTest$testWithdraw" time="0.001"/>
+  <testcase name="testWithdrawSuccessCLP()" classname="test.cuenta.bancaria.CuentaTest$testWithdraw" time="0.001"/>
+  <testcase name="testWithdrawSuccessUSD()" classname="test.cuenta.bancaria.CuentaTest$testWithdraw" time="0.001"/>
+  <testcase name="testWithdrawBelowMinAmountCLP()" classname="test.cuenta.bancaria.CuentaTest$testWithdraw" time="0.001"/>
+  <testcase name="testWithdrawBelowMinAmountUSD()" classname="test.cuenta.bancaria.CuentaTest$testWithdraw" time="0.0"/>
+  <testcase name="testWithdrawMaxAmountCLP()" classname="test.cuenta.bancaria.CuentaTest$testWithdraw" time="0.001"/>
+  <testcase name="testWithdrawMaxAmountUSD()" classname="test.cuenta.bancaria.CuentaTest$testWithdraw" time="0.001"/>
+  <testcase name="testWithdrawSaldoCLP()" classname="test.cuenta.bancaria.CuentaTest$testWithdraw" time="0.002"/>
+  <testcase name="testWithdrawSaldoUSD()" classname="test.cuenta.bancaria.CuentaTest$testWithdraw" time="0.001"/>
+  <testcase name="testWithdrawMinAmountCLP()" classname="test.cuenta.bancaria.CuentaTest$testWithdraw" time="0.001"/>
+  <testcase name="testWithdrawMinAmountUSD()" classname="test.cuenta.bancaria.CuentaTest$testWithdraw" time="0.001"/>
+  <testcase name="testWithdrawAboveMaxAmountCLP()" classname="test.cuenta.bancaria.CuentaTest$testWithdraw" time="0.001"/>
+  <testcase name="testWithdrawAboveMaxAmountUSD()" classname="test.cuenta.bancaria.CuentaTest$testWithdraw" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

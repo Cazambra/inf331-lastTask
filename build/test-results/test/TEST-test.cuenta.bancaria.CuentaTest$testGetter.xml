@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test Getters Cuenta" tests="4" skipped="0" failures="0" errors="0" timestamp="2021-01-13T00:25:14" hostname="DESKTOP-1QD3E6L" time="0.005">
+  <properties/>
+  <testcase name="testGetNumSesiones()" classname="test.cuenta.bancaria.CuentaTest$testGetter" time="0.001"/>
+  <testcase name="testGetSaldoCLP()" classname="test.cuenta.bancaria.CuentaTest$testGetter" time="0.0"/>
+  <testcase name="testGetSaldoUSD()" classname="test.cuenta.bancaria.CuentaTest$testGetter" time="0.0"/>
+  <testcase name="testGetNumOperacionesSesion()" classname="test.cuenta.bancaria.CuentaTest$testGetter" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
